@@ -1,0 +1,12 @@
+Pandas Overview 
+--------------------
+
+Pandas : is powerful , flexible python library used for data manipulation , analysis , and cleaning .
+
+Why Pandas ? 
+
+-Ease of use : provides easy-to-understand syntax for data manipulation 
+-Efficiency : built on top of Numpy , so operation are fast and memory efficient 
+-Rich functionality : offers extensive tools for data cleaning,aggeration and visulization 
+-Data Structure flexibility : can handle structured data like CSV files , Excel sheets, SQL database and JSON 
+
