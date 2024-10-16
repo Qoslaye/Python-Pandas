@@ -1,5 +1,5 @@
 import pandas as pd 
-
+# 
 data_dict = {'Name ' : ['Hassan ' , 'Ali' , 'Ahmed '],
              'Age ' : [18 , 40 , 30] ,
              'City' : ['Mogasidho' , 'Hargeysa' , 'Kismayo']}
